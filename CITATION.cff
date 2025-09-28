@@ -1,0 +1,9 @@
+cff-version: 1.0.0
+message: "Cite as"
+authors:
+  - family-names: Yoshida
+    given-names: Sota
+    orcid: https://orcid.org/0000-0002-1342-1846
+    
+title: "Reimei_pUCCD_ShellModel"
+doi: 10.5281/zenodo.17217584
